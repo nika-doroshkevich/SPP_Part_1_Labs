@@ -2,7 +2,7 @@
 
 :mortar_board: Third year of university, fifth semester.
 
-These programs were written using Visual Studio 2022, .NET 6.0, __C#__.
+These programs were written using Visual Studio 2022, .NET Framework 4.8, __C#__.
 
 _______________________________________________________________________________________
 
