@@ -14,4 +14,12 @@ You can read the requirements [here](https://labs-dnizov.gitbook.io/oot/spp-ch.1
 
 _______________________________________________________________________________________
 
+Lab 2 - __Faker__ :game_die:
+
+It was necessary to implement a generator of DTO (objects for data transfer) with random test data.
+
+You can read the requirements [here](https://labs-dnizov.gitbook.io/oot/spp-ch.1/faker).
+
+_______________________________________________________________________________________
+
 ...other labs are currently in progress...
