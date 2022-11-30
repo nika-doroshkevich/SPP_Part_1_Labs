@@ -22,4 +22,12 @@ You can read the requirements [here](https://labs-dnizov.gitbook.io/oot/spp-ch.1
 
 _______________________________________________________________________________________
 
+Lab 3 - __Assembly Browser__ :deciduous_tree:
+
+It was necessary to implement a graphical utility using WPF to view information about the composition of an arbitrary one .NET builds.
+
+You can read the requirements [here](https://labs-dnizov.gitbook.io/oot/spp-ch.1/assembly).
+
+_______________________________________________________________________________________
+
 ...other labs are currently in progress...
